@@ -69,7 +69,7 @@ const PhotoGallery = () => {
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-800 mb-4">Photo Gallery</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Take a look at unforgettable moments from our students' lives in various corners of Europe
+            Take a look at unforgettable moments from our participants' lives in various corners of Europe
           </p>
         </div>
 
